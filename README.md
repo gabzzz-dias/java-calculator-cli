@@ -1,2 +1,2 @@
 # java-calculator-cli
-Java Studies
+Java calculator exercise while studying in a online course.
